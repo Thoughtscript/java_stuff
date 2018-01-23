@@ -8,6 +8,8 @@ Others exist in production open-source collections.
 
 I hope it gives you a good sense of where I'm at.
 
+Hosted: https://github.com/Thoughtscript/java_stuff
+
 # Breakdown
 
 Let's breakdown the repo! Each sub-directory contains readme's and instructions! Where not specified, please compile with Maven!
