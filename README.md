@@ -2,11 +2,9 @@
 
 Hi! Thanks for taking a look at my repo!
 
-I've assembled several Java Spring examples here. Some date back years. 
+I've assembled several Java Spring examples here. Some date back years. Others exist in production open-source collections. I hope it gives you a good sense of where I'm at.
 
-Others exist in production open-source collections.
-
-I hope it gives you a good sense of where I'm at.
+> **Note: Updated 5.12.20** these samples were great for their time and should show where I was at with Java and Spring (hopefully indicating where I'm presently at too). However, these are severely deprecated with numerous security vulnerabilities stem from the core libraries used. My code should be fairly secure but exists to primarily demonstrate how to use these basic libraries and do cool things in Spring. It's strongly advised to update the dependencies in here (which will remove most of the vulnerabilities if not all). I also have newer spec examples floating around on GitHub that lack these issues!
 
 Hosted: https://github.com/Thoughtscript/java_stuff
 
